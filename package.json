@@ -1,7 +1,7 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "",
+  "description": "![CF](http://i.imgur.com/7v5ASc8.png) LAB 011 Authentication ==============================================",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -30,5 +30,16 @@
     "require-directory": "^2.1.1",
     "supertest": "^3.3.0",
     "swagger-ui-express": "^4.0.2"
-  }
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RellikDog/lab-011-authentication.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RellikDog/lab-011-authentication/issues"
+  },
+  "homepage": "https://github.com/RellikDog/lab-011-authentication#readme"
 }
