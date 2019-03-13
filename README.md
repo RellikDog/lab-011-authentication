@@ -2,14 +2,14 @@
 ==============================================
 
 ## LAB 011
-[![Build Status](https://travis-ci.org/vladimirsan/cf-travis-deployment.svg?branch=master)](https://travis-ci.org/vladimirsan/cf-travis-deployment)
+[![Build Status](https://travis-ci.com/consihon/lab-011-authentication.svg?branch=master)](https://travis-ci.com/consihon/lab-011-authentication)
 
-### Author: Vinicio Sanchez
+### Author: Connor Sihon and Richard Bellamy
 
 ### Links and Resources
-* [repo](https://github.com/vladimirsan/401n12-lab0)
-* [travis](https://travis-ci.com/vladimirsan/401n12-lab0)
-* [back-end](https://lab0-401n12.herokuapp.com/)
+* [repo](https://github.com/consihon/lab-011-authentication)
+* [travis](https://travis-ci.com/consihon/lab-011-authentication)
+* [back-end](https://dashboard.heroku.com/apps/lab-011-auth)
 
 ### Modules
 #### `greet.js`
