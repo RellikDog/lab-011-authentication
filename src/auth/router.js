@@ -30,4 +30,7 @@ authRouter.get('/signin', auth, (req, res, next) => {
     res.send(req.token);
 });
 
+authRouter.get('/book', (req, res, next)=>{
+   console.log(req);
+});
 module.exports = authRouter;
